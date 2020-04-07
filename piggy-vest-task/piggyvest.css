@@ -1,0 +1,83 @@
+body{
+    background-color: #ADD8E6
+}
+
+h1{
+    color: #083e9e;
+    font-size: 1.6rem;
+    text-align: center;
+}
+p{
+    color: #4a5568;
+    text-align: center;
+    font-size: .875rem;
+}
+label{
+    color: #4a5568;
+    margin-bottom: 4px;
+    width: 368px;
+    height: 24px;
+    font-size: .75rem;
+}
+
+input, select{
+    width: 368px;
+    height: 56px;
+    padding: 16px;
+    background-color: #edf2f7;
+    border-radius: .25rem;
+    border: 0px;
+}
+
+form{
+    margin-top: 32px;
+}
+
+button{
+    text-align: center;
+    width: 368px;
+    padding: 20px 40px 16px 40px;
+    border: 0px;
+    color: white;
+    background-color: rgb(8, 62, 158);
+    border-radius: 10px 10px 10px 0px;
+}
+.center{
+    
+    position: absolute;
+    left: 50%;
+    margin-left: -224px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.input-content{
+    
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 20px 20px 20px 0px;
+}
+
+.form-group{
+    margin-bottom: 32px;
+}
+
+#piggyvest-logo{
+    width: 191px;
+    height: 84px;
+    margin: 0 auto;
+}
+
+#login-page{
+    text-align: center;
+    margin-top: 32px;
+}
+
+#login-page a{
+    color: white;
+}
+
+#login-page a:hover{
+    color: gray;
+    text-decoration: none;
+}
